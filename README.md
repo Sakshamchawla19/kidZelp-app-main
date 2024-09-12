@@ -24,7 +24,7 @@ To run kidZelp locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kidZelp/kidZelp-app
+   git clone https://github.com/kidZelp/kidZelp-app](https://github.com/Sakshamchawla19/kidZelp-app-main)
    ```
 
 2. Install dependencies:
